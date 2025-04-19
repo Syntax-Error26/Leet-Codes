@@ -18,7 +18,7 @@ public class Solution {
         for (int i = s.length() - 1; i >= 0; i--) {
             int curr = roman.get(s.charAt(i));
             if (curr < prev) {
-                total -= curr; // Restamos si el valor actual es menor al anterior (como en IV, IX, etc.)
+                total -= curr;
             } else {
                 total += curr;
             }
