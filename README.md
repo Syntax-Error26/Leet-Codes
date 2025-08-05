@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0561-array-partition) |
