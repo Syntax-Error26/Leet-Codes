@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0561-array-partition](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0932-monotonic-array) |
 ## Two Pointers
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0561-array-partition) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Syntax-Error26/Leet-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
